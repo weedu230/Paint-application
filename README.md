@@ -1,17 +1,43 @@
 you can check out the detail of this project from the project report 
 its my one of the first big project 
-to make it open on your pc follow the given steps:
-
-1.first extract every file 
 
 
-2.then right click on the file : CP PAINT APPLICATION.csproj
+<div align="center">
+  <h1>🎨 Paint Application (C# WinForms)</h1>
+  <p>
+    A basic drawing and painting tool developed using C# and Windows Forms as part of an academic project.
+  </p>
+</div>
 
+---
 
-3.then click : open with 
+### 📸 Screenshot Preview
 
+![App Preview](assets/paint_app_preview.png)  
+*Insert your app’s screenshot here — e.g., the drawing window UI*
 
-4.then click : open with visual studio 
+---
 
+### 🧠 Features
 
-5.then : run the project
+- 🖌️ Freehand Drawing with Mouse
+- 🎨 Color Picker
+- 📏 Adjustable Pen Size
+- 🗑️ Clear Canvas / Reset
+- 💾 Save Drawings (Coming Soon!)
+
+---
+
+### ⚙️ Tech Stack
+
+- 🧰 Language: **C#**
+- 🖼️ Framework: **.NET WinForms**
+- 🧠 IDE: **Visual Studio**
+
+---
+
+### 🚀 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/weedu230/Paint-application.git
