@@ -11,10 +11,7 @@ its my one of the first big project
 
 ---
 
-### 📸 Screenshot Preview
 
-![App Preview](assets/paint_app_preview.png)  
-*Insert your app’s screenshot here — e.g., the drawing window UI*
 
 ---
 
