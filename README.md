@@ -33,6 +33,10 @@ its my one of the first big project
 
 ---
 
+https://github.com/user-attachments/assets/f86b6f6a-06db-4bc0-82fd-9465fc333184
+
+-
+
 ### 🚀 How to Run
 
 1. Clone the repository:
